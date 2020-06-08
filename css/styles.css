@@ -1,0 +1,17 @@
+@import "includes/layout.css";
+@import "includes/post.css";
+@import "includes/images.css";
+@import "includes/buttons.css";
+@import "includes/navbar.css";
+
+
+body {
+    background: white;
+    margin: 0;
+}
+
+h1 {
+    text-align: center;
+    text-transform: capitalize;
+    margin-top: 25px;
+}

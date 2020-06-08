@@ -1,0 +1,21 @@
+.blog-posts-wrapper {
+    padding: 3%;
+    display: grid;
+    grid-template-columns: repeat(auto-fill, 260px);
+    grid-column-gap: 100px;
+    grid-row-gap: 40px;
+}
+
+p.quick-info {
+    color: darkgreen;
+}
+
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: #333;
+    color: white;
+    text-align: center;
+}
